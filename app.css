@@ -1,0 +1,107 @@
+
+@media (max-width: 545px){
+	.easy1,.hard1{
+		    position: relative;
+    left: 50%;
+    top: -70px;
+}
+.s1{
+    position: relative;
+    left: 60%;
+    top: -100px;
+}
+#gamedecider {
+    position: relative;
+    top: -55px;
+}
+}
+@media (min-width: 545px){
+	
+	#rgb{
+		font-size: 60px;
+	}	
+}
+#Header{
+	padding:20px;
+	background-color:#3e3eb1e0;
+	text-align: center;
+	color: white;
+}
+.a1{
+	font-weight: 400;
+    letter-spacing: 2.5px;
+}
+
+#middle{
+	height:40px;
+	background-color:white;
+	color: black;
+}
+#middle button{
+	
+	border-color: white;
+
+}
+.content{
+	text-align:center;
+	color:#3e3eb1e0;
+}
+#NewColor{
+	background-color: white;
+	color:#3e3eb1e0;
+}
+
+#gamedecider{
+	margin-top: 7px;
+}
+#Easy{
+	background-color: white;
+	color:#3e3eb1e0;
+}
+#hard{
+	margin-left: 5%;
+	background-color: #3e3eb1e0;
+	color:white;
+}
+#last{
+	height:410px;
+	background-color:black;
+}
+#buttons6{
+	margin-top: 35px;
+
+}
+#last button{
+	
+	width:30%;
+	height:129px;
+	min-height: 40px;
+	border-radius: 10px;
+	
+}
+#last .btn{
+	background-color: white;
+	margin-left:2px;
+	transition: background 0.6s;
+	-webkit-transition: background 0.6s;
+	-moz-transition: background 0.6s;
+}
+#last #buttongroup2{
+	margin-top: 1.5%;
+}
+.btn-info{
+	
+}
+.btn-info button{
+	border: none;
+	background: none;
+	text-transform: uppercase;
+	border-color: black;
+	outline-color: red;
+	transition: all 0.3s;
+	-webkit-transition: all 0.3s;
+	-moz-transition: all 0.3s;
+	outline: none;
+}
+
+}
