@@ -58,7 +58,7 @@ hard.addEventListener("click",function(){
 	easy.style.backgroundColor="white";
 });
 
-NewColor.addEventListener("click",function(){
+NewColor.addEventListener("click touchstart",function(){
 	NewColor.innerHTML="<b>New Color</b>";
 	easy.classList.remove("s1");
 				hard.classList.remove("s1");
